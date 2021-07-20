@@ -7,3 +7,6 @@
 #### L - Liskov Substitution Principle (Princípio da substituição de Liskov)
 #### I - Interface Segregation Principle (Princípio da Segregação da Interface)
 #### D - Dependency Inversion Principle e (Princípio da inversão da dependência)
+
+#### Referências
+- *https://phauer.com/2020/package-by-feature/*
